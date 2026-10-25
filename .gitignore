@@ -1,0 +1,19 @@
+# MySQL backup dumps
+*.sql.gz
+*.dump
+backups/
+*.sql
+
+# Logs and generated reports
+*.log
+reports/
+
+# Local credentials and configuration
+.my.cnf
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
