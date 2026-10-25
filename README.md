@@ -46,7 +46,7 @@ Validated a logical backup and restored the baseline into a verification databas
 
 ## Detailed Documentation
 
-See [`experiments/mysql-database-performance-and-recovery-labs.md`](experiments/mysql-database-performance-and-recovery-labs.md) for the detailed procedures, observations, and conclusions.
+See [`mysql-database-performance-and-recovery.md`](mysql-database-performance-and-recovery.md) for the detailed procedures, observations, and conclusions.
 
 ## Disclaimer
 
